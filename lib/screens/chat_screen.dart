@@ -26,7 +26,7 @@ class _ChatScreenState extends State<ChatScreen> {
   static const _cardBg = Color(0xFF1E1E1E);
   static const _inputBg = Color(0xFF2A2A2A);
 
-  final String _geminiApiKey = 'AIzaSyAQNUeIRxGYzX9er21r0ardtRrkCC5awE8';
+  final String _geminiApiKey = '';
 
   @override
   void initState() {
