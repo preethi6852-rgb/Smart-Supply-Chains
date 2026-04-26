@@ -4,7 +4,7 @@ import 'dart:async';
 import 'package:cloud_firestore/cloud_firestore.dart';
 
 class GeminiService {
-  static const String _apiKey = 'AIzaSyAQNUeIRxGYzX9er21r0ardtRrkCC5awE8';
+  static const String _apiKey = '';
   static const String _endpoint =
       'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=$_apiKey';
 
