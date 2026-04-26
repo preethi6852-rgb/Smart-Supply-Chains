@@ -1,6 +1,6 @@
 Smart Supply Chain
 
-Live: https://smart-supply-chains-8c321.web.app/
+Live:  https://smart-supply-chains-8c321.web.app
 
 Overview
 
