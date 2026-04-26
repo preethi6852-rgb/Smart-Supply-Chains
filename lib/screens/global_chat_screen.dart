@@ -26,7 +26,7 @@ class _GlobalChatScreenState extends State<GlobalChatScreen> {
   static const Color _dark    = Color(0xFF422a14);
   static const Color _inputBg = Color(0xFFecddc8);
 
-  final String _geminiApiKey = 'AIzaSyAQNUeIRxGYzX9er21r0ardtRrkCC5awE8';
+  final String _geminiApiKey = '';
 
   // ── All logic unchanged ───────────────────────────────────────
   @override
