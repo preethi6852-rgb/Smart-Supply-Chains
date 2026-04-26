@@ -5,6 +5,7 @@ Live: https://smart-supply-chains-8c321.web.app/
 Overview
 
 AI-powered platform for vendor evaluation and supply chain optimization using real-time data, analytics, and predictive insights. Modern smart supply chains leverage AI and real-time data to improve efficiency and decision-making.
+
 Smart Supply Chain – Key Features
 
  Authentication: Email/Google login, auto redirect, logout
